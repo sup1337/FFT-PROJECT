@@ -1,2 +1,2 @@
 # FFT-PROJECT
-MEGNYOMJUK
+Ide irjuk megg a dokumentaciott szerintem 
